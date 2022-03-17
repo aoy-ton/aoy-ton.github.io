@@ -37,6 +37,20 @@ html {
   font-size: 18px;
 }
 
+.circle {
+  width: 40px;
+  height: 40px;
+
+
+  display: block;
+  margin-left: 48%;
+  /* margin-right: 4px; */
+
+  float: left;
+  background-color: red;
+  border-radius: 50%;
+}
+
 body {
   font-family: "Dosis", sans-serif, "Noto Sans Thai";
   background-color: #fff;
