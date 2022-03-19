@@ -73,12 +73,6 @@ section,
 }
 
 #section-quote {
-	/* opacity: 0.4; */
-	position: relative !important;
-	width: auto !important;
-	height: 150% !important;
-	background-position: center center !important;
-	background-size: cover !important;
 	background: url(../images/background/4.jpg);
 
 }
