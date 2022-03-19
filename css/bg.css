@@ -51,6 +51,7 @@ section,
 }
 
 .page-journal #subheader {
+	background-position: center !important;
 	background-image: url(../images/background/subheader-6.jpg);
 }
 
@@ -74,6 +75,11 @@ section,
 
 #section-quote {
 	background: url(../images/background/4.jpg);
+
+}
+
+#section-quote-2 {
+	background: url(../images/background/8.jpg);
 
 }
 
